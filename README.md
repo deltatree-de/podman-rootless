@@ -1,6 +1,3 @@
-Natürlich – hier ist die bereinigte `README.md`, **ohne Hinweis-Block am Anfang** und **ohne Verwendung von `--privileged`**. Bereit zum Kopieren:
-
-````markdown
 # Rootless Podman mit Docker-API im Container
 
 Dieses Repository enthält ein Dockerfile, das ein Ubuntu-basiertes Container-Image mit **Podman im Rootless-Modus** aufbaut. Die Containerinstanz stellt die **Docker-kompatible REST-API** über **Port `2375` (TCP)** bereit.
